@@ -1,8 +1,8 @@
-47.93.30.72 pro.autojs.org
+#47.93.30.72 pro.autojs.org
 47.93.30.72 vip1.eydata.net
-47.93.30.72 boys.intcl.top
+#47.93.30.72 boys.intcl.top
 
-127.0.0.1 data.flurry.com
-127.0.0.1 c.sayhi.360.cn
-127.0.0.1 android.bugly.qq.com
-127.0.0.1 recaptcha.net
+#127.0.0.1 data.flurry.com
+#127.0.0.1 c.sayhi.360.cn
+#127.0.0.1 android.bugly.qq.com
+#127.0.0.1 recaptcha.net
